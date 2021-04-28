@@ -2,7 +2,7 @@
 using namespace std;
 #define ll long long 
 void A(){
-
+    cout<<"Toi la A day, chao cac ban";
 }
 void B(){
     cout<<"Toi la B day, xin chao cac ban";
