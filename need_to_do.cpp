@@ -5,7 +5,7 @@ void A(){
 
 }
 void B(){
-
+    cout<<"Toi la B day, xin chao cac ban"
 }
 void C(){
 
