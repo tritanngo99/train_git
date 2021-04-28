@@ -8,7 +8,7 @@ void B(){
     cout<<"Toi la B day, xin chao cac ban";
 }
 void C(){
-
+    cout<<"Toi la C day, xin chao cac ban";
 }
 int main(){
     A();
